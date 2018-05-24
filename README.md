@@ -7,4 +7,4 @@ MATLAB implementations of standard and chaos-incorporated versions of the firefl
 
 **main_cfa_cont_2.m** - Chaotic FA with Logistic map applied on the light absorption coefficient and randomization parameter.
 
-The Booth, Goldstien-Price, Levi N.13, Griewank, Sphere function are also implemented in separate files to be used as the objective function.
+The Booth, Goldstien-Price, Levi N.13, Griewank, Sphere, simple modulo function are also implemented in separate files to be used as the objective function.
